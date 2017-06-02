@@ -1,0 +1,15 @@
+{
+  "name": "promise-workshop",
+  "version": "1.0.0",
+  "description": "learning about es6 promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "terrelllinnell",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "node-fetch": "^1.6.3"
+  }
+}
